@@ -1,0 +1,61 @@
+html{
+  /*font-family: 'Homemade Apple', cursive;*/
+  /*font-family: 'Montserrat', sans-serif;*/
+  font-family: 'Noto Serif SC', serif;
+  font-size: 16px;
+  background-color: rgb(145,207,238);
+}
+body{
+  width: 800px;
+  margin: 0 auto;
+  padding 0 20px 20px 20px;
+  border: 5px rgb(35,94,146);
+  background-color: white;
+}
+p{
+  color: rgb(34,34,34);
+  width: auto;
+  font-size: 24px;
+  /*border: 1px solid rgb(34,34,34);*/
+  text-align: center;
+}
+img{
+  display: block;
+  margin: 0 auto;
+  width: 800px;
+
+}
+.apraksts{
+  color: rgb(34,34,34);
+  border: none;
+  position: relative;
+  padding-top: 15px;
+  margin: 20px;
+  text-align: center;
+
+}
+ul ol{
+  font-size: 8px;
+  line-height: 2;
+  letter-spacing: 1px
+
+}
+h1{
+  text-align: center;
+  font-size: 60px;
+  color: rgb(156,97,60);
+  margin: 0;
+  padding: 0;
+  text-shadow: 3px 3px 1px rgb(34,34,34);
+}
+h2{
+  color: gray;
+  margin-left: 20px;
+  text-shadow: 1px 1px 1px rgb(34,34,34);
+}
+hr{
+  color: rgb(34,34,34);
+}
+footer{
+  text-align: center;
+}
